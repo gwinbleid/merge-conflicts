@@ -1,16 +1,24 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+# UNN
+- project: "17 Goals to Transform Our World - Bellarusian statistics"
+  role: Front-End developer
+  duration: June 2018 &mdash; October 2018
+  url: "http://sdgplatform.belstat.gov.by/en/sites/belstatfront/home.html#"
+  description: Building statistic app on vanillajs for Belarusian department UNN
 
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+# probot
+- project: Server Logging System
+  role: Front-End developer
+  duration: November 2018 &mdash; February 2019
+  url: only for internal using in banks
+  description: ElasticSearch with Angular in action
+
+# L'IDEAL
+- project: L'Ideal CRM
+  role: Front-End developer
+  duration: February 2019 &mdash; April 2019
+  url: prototype version
+  description: CRM for banks
+  
