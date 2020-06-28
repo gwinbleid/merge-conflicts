@@ -8,7 +8,7 @@
   url: "http://sdgplatform.belstat.gov.by/en/sites/belstatfront/home.html#"
   description: Building statistic app on vanillajs for Belarusian department UNN
 
-# probot
+# ServerLog
 - project: Server Logging System
   role: Front-End developer
   duration: November 2018 &mdash; February 2019
