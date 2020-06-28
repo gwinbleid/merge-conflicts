@@ -4,5 +4,6 @@
 - skill: Education
   description: I can educate myself. Sometimes other people.
   
-  - skill: Humor
+# Humor
+- skill: Humor
   description: I really don't like sad faces.
